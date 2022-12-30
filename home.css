@@ -1,0 +1,14 @@
+.container {
+  width: 95%;
+  margin: auto;
+}
+.website-name {
+  font-size: 28px;
+  font-weight: bold;
+}
+.imagedev {
+  background-image: url("./images/flag-min.jpg");
+  background-color: brown;
+  width: 30px;
+  height: 50px;
+}
